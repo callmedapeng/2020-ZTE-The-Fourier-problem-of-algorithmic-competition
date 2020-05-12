@@ -1,0 +1,8 @@
+Result:
+6912
+3648
+32352
+653376
+12967040
+0
+Total running time(seconds): 1461.312000 
